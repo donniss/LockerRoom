@@ -1,0 +1,6 @@
+/Users/server/Projects/Lockeroom/Lockeroom/bin/Release/netcoreapp3.1/publish/appsettings.Development.json
+/Users/server/Projects/Lockeroom/Lockeroom/bin/Release/netcoreapp3.1/publish/appsettings.json
+/Users/server/Projects/Lockeroom/Lockeroom/bin/Release/netcoreapp3.1/publish/Lockeroom.dll
+/Users/server/Projects/Lockeroom/Lockeroom/bin/Release/netcoreapp3.1/publish/Lockeroom.deps.json
+/Users/server/Projects/Lockeroom/Lockeroom/bin/Release/netcoreapp3.1/publish/Lockeroom.runtimeconfig.json
+/Users/server/Projects/Lockeroom/Lockeroom/bin/Release/netcoreapp3.1/publish/Lockeroom.pdb
